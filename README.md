@@ -1,2 +1,1 @@
-# supermarket management system python
- 
+UNDER CONSTRUCTION!!!!!!!!
